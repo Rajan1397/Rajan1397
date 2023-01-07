@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajan Kumar</h1>
-<h3 align="center">A passionate full-stack developer from Delhi (India)</h3>
+<h3 align="center">Full-stack developer at VEGEASE from Delhi (India)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajan1397&label=Profile%20views&color=0e75b6&style=flat" alt="rajan1397" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/1397rajan" target="blank"><img src="https://img.shields.io/twitter/follow/1397rajan?logo=twitter&style=for-the-badge" alt="1397rajan" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack Web Development**
+- 🌱 I’m currently working as **MERN full Stack developer**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-rajan1397.vercel.app/](https://portfolio-rajan1397.vercel.app/)
 
